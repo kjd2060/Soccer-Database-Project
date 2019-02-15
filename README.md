@@ -5,7 +5,7 @@ This was a project to create a database using SQL / Java.  Our database was for 
 2) Start a database project or open the existing one
 3) if anything is in it, drop the schema using the GUI
 4) Open and run the SQL file 'create_db.sql' in the SQL folder
-5) Open 'populate.sql' in the SQL folder BUT DO NOT RUN IT.  You need to change the directory strings to wherever you have the sample data.
+5) Open 'populate.sql' in the SQL folder BUT DO NOT RUN IT.  You need to change the directory strings to wherever you have the sample data.  Included an excel file with sample data here.
 6) Run the SQL file 'populate.sql' in the SQL folder.
 7) Now open your prefered Java IDE and make a new project, likely as a console project.  Add our Java Code in Java Source Code to the project; both 
    the code in the main folder and in the data_object subfolder (you can just add the subfolder).
